@@ -18,12 +18,84 @@
 
 ## Should You Learn Powershell?
 
-- Introduction
-  - PowerShell:
-    - Command-line shell interface made by Microsoft that enables system administrators and power users to manage computers from the command line
-    - Scripting language, built on .NET (used for automating administrative tasks and configuration management)
-    - Tasks are generally performed using cmdlet (command-let) can perform a wide variety of actions
+### Introduction
 
-- PowerShell vs Other Languages:
+- PowerShell:
+  - Command-line shell interface made by Microsoft that enables system administrators and power users to manage computers from the command line
+  - Scripting language, built on .NET (used for automating administrative tasks and configuration management)
+  - Tasks are generally performed using cmdlet (command-let) can perform a wide variety of actions
+
+### Other Languages Defined
+
+- JavaScript
+  - Client-side scripting language used to add interactive behavior to web pages. Typically paired with Javascript frameworks to build web and mobile apps
+  >
+- Java
+  - A programming language used to create applicatio (android, server, web) as well as various software tools.
+  >
+- Python
+  - A general purpose programming language that can create desktop GUI Applications, websites, web applications, as well as carry out a wide array of automation tasks.
+  >
+- C#
+  - A general purpose language designed for developing applications. Often used for Windows desktop applications and games. Also used for web applications as well as mobile development.
+  >
+- Ruby
+  - A general purpose language typically combined with Rails (a development tool with a focus of RESTful application design). Rails is one of the most popular web development frameworks today. Ruby by itself is a very flexible language used to rapidly build applications.
+  >
+- PowerShell vs Other Languages
+  - Commonality between the other languages is that they *create* something:
+    - Desktop / Web Application / Website / Game / Mobile App
+  - PowerShell is the language for *doing* things in context to managing a technology environment
+
+### Who Uses PowerShell?
+
+- Developers / Administrators / Engineers / Architects
+
+### What's in a Shell?
+
+- Linux > Bash > Python
+- Windows > PowerShell > C#
+
+### PowerShell vs Bash
+
+Both rely on concept of pipeline, except:
+
+- Bash pushes around globs of text
+- PowerShell passes around the output of one cmdlet as the input for another one
+>
+- PowerShell:
+  - Microsoft command-line shell and associated scripting language used for task automation and configuration management
+  - Works with Objects
+  - PowerShell is not just a shell; it is a complete scripting environment.
+  - PowerShell scripts share complex data, passing entire data objects structures between commands
+  >
+- Bash:
+  - Shell primary used in Linux
+  - Combines scripting language, as well as a host of native Linux tools to automate/manage Linux devices
+  - Unix shell and command language used for task automation and management
+  - Works with strings
+  - Bash, the "veteran IT soldier" passes output and input as plain text (Makes it easy to move move information to the next program)
+
+### Strings vs Objects
+
+- Bash requires lots of string manipulation and parsing to get info you want
+- PowerShell very easily pass objects between cmdlets, allowing you to move complex data with very little effort
+
+### Where can you use PowerShell?
+
+- Windows
+- Linux
+- Hyper-V
+- VMWare
+- AWS
+- Azure
+- Oracle
+
+### Why you should learn PowerShell
 
 ## Things I want to know more about
+
+- Languages in general
+  - Java
+  - Python
+  - JavaScript
