@@ -93,9 +93,27 @@ Both rely on concept of pipeline, except:
 
 ### Why you should learn PowerShell
 
+- PowerShell Advantages:
+  - Automation: faster
+  - Accuracy: reduce mistakes
+  - Versatility: learning once enhances you everywhere
+  - Community: connected tech community
+  - Relevant: Continues to grow and be adopted
+
+### Beginning your path to learn PowerShell
+
+- [YouTube Channel](https://www.youtube.com/channel/UC2iX3Hd2za22bOozudNZEuA)
+- Can spin up VMs in Azure, upload objects to AWS S3, or manage Windows environment efficiently
+
+## Who needs malware? IBM says most hackers just PowerShell through boxes now, leaving little in the way of footprints
+
 ## Things I want to know more about
+
+- 2018: IBM's X-Force found 43% of attacks it analyzed utilized any sort of locally installed files. Rather, hackers utilized PowerShell scripts to execute their dirty deeds in memory without significantly touching file systems
+- Reminder that admins can no longer solely rely on detecting malicious executiables and similar data on hard drives and other storage, to identify cyber-intrusions
 
 - Languages in general
   - Java
   - Python
   - JavaScript
+  - PowerShell
