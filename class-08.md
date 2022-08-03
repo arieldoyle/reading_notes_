@@ -6,6 +6,8 @@
 
 [Windows Registry Demystified](https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/)
 
+[How to use Windows Event Viewer](https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-it-in-windows-10/)
+
 [Edit the Windows Registry from the Command Prompt](https://www.howtogeek.com/677453/how-to-edit-the-windows-registry-from-the-command-prompt/)
 
 ## What You Can Do With It
