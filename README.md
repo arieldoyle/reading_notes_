@@ -19,6 +19,7 @@
 
 ## OPS 301
 
+- [Class 01 Reading Notes](301class-01.md)
 - [Class 02 Reading Notes](301class-02.md)
 - [Class 03 Reading Notes](301class-03.md)
 - [Class 04 Reading Notes](301class-04.md)
