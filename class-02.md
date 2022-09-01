@@ -4,10 +4,10 @@
 
 ### Resources
 
-[GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)
-[VS Code](https://code.visualstudio.com/docs)
-[Origins of Bash/Story of Shellshock](https://www.wired.com/2014/09/shellshocked-bash/)
-[Tutorialspoint - What is Shell?](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm)
+- [GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)
+- [VS Code](https://code.visualstudio.com/docs)
+- [Origins of Bash/Story of Shellshock](https://www.wired.com/2014/09/shellshocked-bash/)
+- [Tutorialspoint - What is Shell?](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm)
 
 #### Github Introduction
 

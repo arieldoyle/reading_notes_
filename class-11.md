@@ -4,8 +4,8 @@
 
 ### Resources
 
-[SolarwindsMSP: SSD Data Recovery Best Practices](https://www.solarwindsmsp.com/blog/ssd-data-recovery-best-practices)
-[How to Erase a Hard Drive Using DBAN](https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148)
+- [SolarwindsMSP: SSD Data Recovery Best Practices](https://www.solarwindsmsp.com/blog/ssd-data-recovery-best-practices)
+- [How to Erase a Hard Drive Using DBAN](https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148)
 
 ### SSD Data Recovery Best Practices
 

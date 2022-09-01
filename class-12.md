@@ -4,7 +4,7 @@
 
 ### Resources
 
-[Introduction to pfSense](https://turbofuture.com/computers/Introduction-to-pfSense-An-Open-Source-Firewall-and-Router-Platform)
+- [Introduction to pfSense](https://turbofuture.com/computers/Introduction-to-pfSense-An-Open-Source-Firewall-and-Router-Platform)
 
 #### Introduction to pfSense-An Open Source Firewall and Router Platform
 

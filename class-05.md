@@ -4,11 +4,9 @@
 
 ### Resources
 
-[UpGuard: What is an SMB Port - Ports 445 and 139 Explained](https://www.upguard.com/blog/smb-port)
-
-[A+ Certification Cheat Sheet](https://gcit.enschool.org/ourpages/auto/2017/8/2/56105037/220%20901%20Cheat%20Sheet%202017.pdf)
-
-[Professor Messer: Microsoft Command Line Tools - CompTIA-220-1002 - 1.4](https://www.professormesser.com/free-a-plus-training/220-1002/microsoft-command-line-tools/)
+- [UpGuard: What is an SMB Port - Ports 445 and 139 Explained](https://www.upguard.com/blog/smb-port)
+- [A+ Certification Cheat Sheet](https://gcit.enschool.org/ourpages/auto/2017/8/2/56105037/220%20901%20Cheat%20Sheet%202017.pdf)
+- [Professor Messer: Microsoft Command Line Tools - CompTIA-220-1002 - 1.4](https://www.professormesser.com/free-a-plus-training/220-1002/microsoft-command-line-tools/)
 
 ## UpGuard: What is an SMB Port? A Detailed Description of Ports 445 + 139
 

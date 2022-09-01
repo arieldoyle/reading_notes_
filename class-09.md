@@ -4,7 +4,7 @@
 
 ### Resources
 
-[HDI: So, You Want to Write an SOP?](https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop.aspx)
+- [HDI: So, You Want to Write an SOP?](https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop.aspx)
 
 #### Introduction
 

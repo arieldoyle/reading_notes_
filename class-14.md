@@ -4,7 +4,7 @@
 
 ### Resources
 
-[How to remove malware from your Windows PC](https://www.pcworld.com/article/243818/how-to-remove-malware-from-your-windows-pc.html)
+- [How to remove malware from your Windows PC](https://www.pcworld.com/article/243818/how-to-remove-malware-from-your-windows-pc.html)
 
 #### How to remove malware from your Windows PC
 

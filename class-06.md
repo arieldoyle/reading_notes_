@@ -4,9 +4,8 @@
 
 ### Resources
 
-[Windows Defender Security Center](https://www.thewindowsclub.com/windows-defender-security-center)
-
-[Article - How to use Windows Event Viewer](https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-it-in-windows-10/?WPACFallback=1&WPACRandom=1659388000913)
+- [Windows Defender Security Center](https://www.thewindowsclub.com/windows-defender-security-center)
+- [Article - How to use Windows Event Viewer](https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-it-in-windows-10/?WPACFallback=1&WPACRandom=1659388000913)
 
 ## Windows Defender Security Center in Windows 10
 

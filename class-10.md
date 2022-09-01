@@ -4,7 +4,7 @@
 
 ### Resources
 
-[How to Get started with Veeam Free Edition](https://www.veeam.com/blog/how-to-get-started-with-veeam-backup-free-edition.html)
+- [How to Get started with Veeam Free Edition](https://www.veeam.com/blog/how-to-get-started-with-veeam-backup-free-edition.html)
 
 #### How to: Get started with Veeam Backup Free Edition
 

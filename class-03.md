@@ -4,7 +4,7 @@
 
 ### Resources
 
-[Intro to Help Desk Support Roles](https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5)
+- [Intro to Help Desk Support Roles](https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5)
 
 #### Intro
 
