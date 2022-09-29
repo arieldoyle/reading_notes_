@@ -1,6 +1,6 @@
 # Table Of Contents
 
-## OPS 201
+## OPS 201 - Foundations of Computer Operations
 
 - [Class 02 Reading Notes](class-02.md)
 - [Class 03 Reading Notes](class-03.md)
@@ -17,7 +17,7 @@
 - [Class 14 Reading Notes](class-14.md)
 - [Class 15 Reading Notes](class-15.md)
 
-## OPS 301
+## OPS 301 - Networking and Systems Admninistration
 
 - [Class 01 Reading Notes](301class-01.md)
 - [Class 02 Reading Notes](301class-02.md)
@@ -35,7 +35,7 @@
 - [Class 14 Reading Notes](301class-14.md)
 - [Class 15 Reading Notes](301class-15.md)
 
-## OPS 401
+## OPS 401 - Cybersecurity Engineering
 
 - [Class 01 Reading Notes](401class-01.md)
 - [Class 02 Reading Notes](401class-02.md)
