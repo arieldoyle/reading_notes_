@@ -4,7 +4,7 @@
 
 ### Resources
 
-[X](X)
+- [X](X)
 
 ### XX
 
