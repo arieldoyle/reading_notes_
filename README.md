@@ -23,7 +23,6 @@
 - [Class 02 Reading Notes](301class-02.md)
 - [Class 03 Reading Notes](301class-03.md)
 - [Class 04 Reading Notes](301class-04.md)
-- [Class 05 Reading Notes](301class-05.md)
 - [Class 06 Reading Notes](301class-06.md)
 - [Class 07 Reading Notes](301class-07.md)
 - [Class 08 Reading Notes](301class-08.md)
