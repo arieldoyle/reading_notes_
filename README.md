@@ -44,7 +44,6 @@
 - [Class 07 Reading Notes](401class-07.md)
 - [Class 08 Reading Notes](401class-08.md)
 - [Class 09 Reading Notes](401class-09.md)
-- [Class 10 Reading Notes](401class-10.md)
 - [Class 11 Reading Notes](401class-11.md)
 - [Class 12 Reading Notes](401class-12.md)
 - [Class 13 Reading Notes](401class-13.md)
