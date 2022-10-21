@@ -48,4 +48,3 @@
 - [Class 12 Reading Notes](401class-12.md)
 - [Class 13 Reading Notes](401class-13.md)
 - [Class 14 Reading Notes](401class-14.md)
-- [Class 15 Reading Notes](401class-15.md)
