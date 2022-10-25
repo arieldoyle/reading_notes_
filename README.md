@@ -49,3 +49,4 @@
 - [Class 13 Reading Notes](401class-13.md)
 - [Class 14 Reading Notes](401class-14.md)
 - [Class 16 Reading Notes](401class-16.md)
+- [Class 17 Reading Notes](401class-17.md)
