@@ -51,3 +51,4 @@
 - [Class 16 Reading Notes](401class-16.md)
 - [Class 17 Reading Notes](401class-17.md)
 - [Class 18 Reading Notes](401class-18.md)
+- [Class 19 Reading Notes](401class-19.md)
