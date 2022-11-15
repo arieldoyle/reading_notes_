@@ -56,3 +56,4 @@
 - [Class 27 Reading Notes](401class-27.md)
 - [Class 28 Reading Notes](401class-28.md)
 - [Class 29 Reading Notes](401class-29.md)
+- [Class 31 Reading Notes](401class-31.md)
