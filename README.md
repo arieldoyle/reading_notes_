@@ -58,3 +58,4 @@
 - [Class 29 Reading Notes](401class-29.md)
 - [Class 31 Reading Notes](401class-31.md)
 - [Class 32 Reading Notes](401class-32.md)
+- [Class 33 Reading Notes](401class-33.md)
