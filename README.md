@@ -60,3 +60,4 @@
 - [Class 32 Reading Notes](401class-32.md)
 - [Class 33 Reading Notes](401class-33.md)
 - [Class 34 Reading Notes](401class-34.md)
+- [Class 36 Reading Notes](401class-36.md)
