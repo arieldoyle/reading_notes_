@@ -66,3 +66,5 @@
 - [Class 39 Reading Notes](401class-39.md)
 - [Class 41 Reading Notes](401class-41.md)
 - [Class 42 Reading Notes](401class-42.md)
+- [Class 43 Reading Notes](401class-43.md)
+
